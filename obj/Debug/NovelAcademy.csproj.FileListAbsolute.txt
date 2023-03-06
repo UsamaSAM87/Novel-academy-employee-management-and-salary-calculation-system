@@ -1,0 +1,9 @@
+C:\Users\usama\source\repos\NovelAcademy\NovelAcademy\bin\Debug\NovelAcademy.exe
+C:\Users\usama\source\repos\NovelAcademy\NovelAcademy\bin\Debug\NovelAcademy.pdb
+C:\Users\usama\source\repos\NovelAcademy\NovelAcademy\obj\Debug\NovelAcademy.csproj.AssemblyReference.cache
+C:\Users\usama\source\repos\NovelAcademy\NovelAcademy\obj\Debug\NovelAcademy.Form1.resources
+C:\Users\usama\source\repos\NovelAcademy\NovelAcademy\obj\Debug\NovelAcademy.Properties.Resources.resources
+C:\Users\usama\source\repos\NovelAcademy\NovelAcademy\obj\Debug\NovelAcademy.csproj.GenerateResource.cache
+C:\Users\usama\source\repos\NovelAcademy\NovelAcademy\obj\Debug\NovelAcademy.csproj.CoreCompileInputs.cache
+C:\Users\usama\source\repos\NovelAcademy\NovelAcademy\obj\Debug\NovelAcademy.exe
+C:\Users\usama\source\repos\NovelAcademy\NovelAcademy\obj\Debug\NovelAcademy.pdb
